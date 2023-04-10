@@ -1,8 +1,8 @@
 # arc_boosts
 
-Boosts for Arc Browser by [rosbif](https://arcboosts.com/@rosbif)
+Boosts for Arc Browser by [therosbif](https://arcboosts.com/@rosbif)
 
-## [YouYouTube Shorts Side Comments](./yt-shorts-side-by-side/)
+## [<img src="./yt-shorts-side-by-side/logo.png" alt="logo" height="24" /> YouTube Shorts Side Comments](./yt-shorts-side-by-side/)
 
 View YouTube Shorts comments side-by-side with the video.
 
