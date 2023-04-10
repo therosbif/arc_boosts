@@ -1,0 +1,14 @@
+tp-yt-iron-overlay-backdrop[opened] {
+  display: none !important;
+}
+
+.style-scope.ytd-popup-container:has([target-id="engagement-panel-comments-section"]) {
+  right: 1rem !important;
+  max-width: fit-content;
+  display: block !important;
+}
+
+#shorts-container {
+  justify-content: start !important;
+}
+
